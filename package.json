@@ -1,0 +1,26 @@
+{
+  "name": "protractor-jasmine",
+  "version": "1.0.0",
+  "description": "protractor jasmine e2e test",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "node node_modules/gulp/bin/gulp.js",
+    "test": "npm run gulp protractor"
+  },
+  "author": "Deepu nair",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-protractor": "^4.1.0",
+    "gulp-shell": "^0.6.3",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1",
+    "protractor": "5.1.2",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "run-sequence": "^2.1.0",
+    "webdriver-manager": "12.0.6"
+  }
+}
