@@ -7,8 +7,6 @@
     "gulp": "node node_modules/gulp/bin/gulp.js",
     "test": "npm run gulp protractor"
   },
-  "author": "Deepu nair",
-  "license": "ISC",
   "devDependencies": {
     "gulp": "3.9.1",
     "gulp-jscs": "^4.0.0",
