@@ -8,7 +8,7 @@
     "test": "npm run gulp protractor"
   },
   "devDependencies": {
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-jscs": "^4.0.0",
     "gulp-jshint": "^2.0.4",
     "gulp-protractor": "^4.1.0",
